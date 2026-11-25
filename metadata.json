@@ -1,0 +1,6 @@
+{
+  "name": "Pembangunan dan Banjir AR",
+  "description": "Bahan pembelajaran Realiti Terimbuh (AR) interaktif berkaitan kelestarian ekosistem air, pembangunan bandar, air larian permukaan, sistem perparitan dan kejadian banjir untuk murid Sains Tingkatan 4.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
